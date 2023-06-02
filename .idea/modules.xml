@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lamda-exercise.iml" filepath="$PROJECT_DIR$/lamda-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda-exercise.iml" filepath="$PROJECT_DIR$/lambda-exercise.iml" />
     </modules>
   </component>
 </project>
